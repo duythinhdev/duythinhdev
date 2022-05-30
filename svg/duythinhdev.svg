@@ -79,6 +79,7 @@
 				<div class="greeting">
           Hi Aliens!<br/>I'm Duythinhdev from the Earth.
         </div>
+        <>
         <div class="skills">
           <div class="skills_icon">
             <img

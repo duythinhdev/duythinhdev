@@ -17,9 +17,15 @@
           line-height: 1.6;
 				}
         .quotes-eng {
+		  display: flex;
           font-size: 18px;
+		  align-items: center;
+		  justify-content: center;
         }
         .quotes-vi {
+		  display: flex;
+		  align-items: center;
+		  justify-content: center;
           font-size: 18px;
         }
         .duythinhdev-signature {
@@ -27,7 +33,7 @@
         }
 			</style>
 
-			<div class="container">
+		<div class="container">
         <div class="quotes-eng">"Human possibilities are unlimited? The human limit lies in the thought that one cannot do okay?"</div>
         <div class="quotes-vi">"Khả năng của con người là không giới hạn? Giới hạn của con người nằm ở suy nghĩ rằng mình không thể làm được"</div>
         <div class="duythinhdev-signature">-Duythinhdev Official-</div>
