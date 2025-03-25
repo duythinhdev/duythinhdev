@@ -1,6 +1,6 @@
 <!-- Duythinhdev -->
 <div>
-    <h3>My name is Do Duy Thinh and I'm studying Computer Science at Ho Chi Minh University of Technology (HCMUT) of 2027. I'm from Vietnam and my goal is to become a software engineer.</h3>
+<!--     <h3>My name is Do Duy Thinh and I'm studying Computer Science at Ho Chi Minh University of Technology (HCMUT) of 2027. I'm from Vietnam and my goal is to become a software engineer.</h3> -->
 </div>
 <a href="#" target="_blank">
   <img src="svg/duythinhdev.svg" width="1200" alt="duythinhdev-official" />
